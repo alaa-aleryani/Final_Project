@@ -140,7 +140,7 @@ In conclusion, our analysis has provided valuable insights into regional purchas
 
 ---
 
-### Contact us:
+### Contact Us:
 
 <details>
 <summary><b> Alaa Aleryani:</b></summary>   <br>
