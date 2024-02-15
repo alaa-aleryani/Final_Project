@@ -58,7 +58,7 @@ The purpose of this project is to:
 
 
 ## Visualizations
-For some insights into our dataset, feel free to check our visualization dashboard at [Tableau Public](https://public.tableau.com/app/profile/alaa.al.eryani/viz/Ecommerce_17070771557310/ProfitDashboard)
+For some insights into our dataset, feel free to check our visualization dashboard at [Tableau Public](https://public.tableau.com/app/profile/alaa.al.eryani/viz/Ecommerce_17070771557310/SalesDashboard)
 
 ## Analysis
 
@@ -140,7 +140,7 @@ In conclusion, our analysis has provided valuable insights into regional purchas
 
 ---
 
-### Contact Us:
+### Contact us:
 
 <details>
 <summary><b> Alaa Aleryani:</b></summary>   <br>
